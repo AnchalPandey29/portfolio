@@ -1,0 +1,46 @@
+[
+    {
+      "title": "WorkConnect",
+      "imageSrc": "projects/workconnect.jpg",
+      "description": "This is a fullstack HR Management System built using MERN stack",
+      "skills": ["MongoDB" , "React", "Express", "Node"],
+      "source": "https://github.com/AnchalPandey29/Hackathon-Frontend"
+    },
+    {
+      "title": "Gym Management System",
+      "imageSrc": "projects/gym.png",
+      "description": "This is a project made for Gyms to maintain and manage their bussiness.",
+      "skills": ["Java", "JSP", "Servlet", "MySQL"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Cafe Management System",
+      "imageSrc": "projects/cafe.png",
+      "description": "This is a project developed for cafe management consist of order and billing details.",
+      "skills": ["Python", "Tkinter"],
+      "source": "https://github.com/rishabh-j18/Cafe_Management_System"
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/portfolio.png",
+      "description": "This is my own portfolio website built to reach out and express my skills.",
+      "skills": ["React", "CSS", "Vite"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+
+    {
+      "title": "Tic Tac Toe",
+      "imageSrc": "projects/ttt.png",
+      "description": "This is a dual player and user friendly mini-project for entertainment purpose.",
+      "skills": ["Python", "Tkinter"],
+      "source": "https://github.com/rishabh-j18/Tic_Tac_Toe/"
+    },
+    {
+      "title": "Student Performance Prediction",
+      "imageSrc": "projects/project.png",
+      "description": "This is prediction model used to predict student performance",
+      "skills": ["Python", "ML"],
+      "source": "https://www.github.com"
+    }
+  ]

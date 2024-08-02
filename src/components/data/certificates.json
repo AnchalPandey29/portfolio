@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Python",
+    "organisation": "Infosys",
+    "startDate": "January, 2024",
+    "endDate": "February, 2024",
+    "imageSrc": "history/Infosys.png"
+  },
+  {
+    "name": "Machine Learning using Python",
+    "organisation": "IBM",
+    "startDate": "November, 2023",
+    "endDate": "January, 2024",
+    "imageSrc": "history/ibm.png"
+  },
+  {
+    "name": "Fundamentals of Deep Learning",
+    "organisation": "Nvidea",
+    "startDate": "September, 2023",
+    "endDate": "October, 2023",
+    "imageSrc": "history/nvidea.webp"
+  }
+]
